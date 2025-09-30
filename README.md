@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Python Django<br>🤩 I 'm looking to Collaborate my projects with AWS<br>🎯 Goals: Creating Projects and Solving Errors in it.</p>
+<p align="left">📚 I am passionate in Python Fullstack Developement, AI/ML, know about basic SQL concepts and seeking to new technologies and adapt to it.<br>I also know about basic concepts like Numpy, Matplotlib,etc and looking foward to work on it.<br>🤩 I 'm looking to Collaborate my projects with IAM<br>🎯 Goals: Creating Projects and Solving Errors in it.</p>
 
 ###
 
