@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I am passionate in Python Fullstack Developement.<br> Interested in AI/ML👽🤖👾.<br> Know about basic SQL concepts.<br> Seeking to new technologies and adapt to it.<br>I am looking foward to collaborate on projects that blend AI.<br>🤩 I 'm looking to Collaborate my projects with IAM<br>🎯 Goals: Creating Projects and Solving Errors in it.</p>
+<p align="left">📚 I am passionate in Python Fullstack Developement.<br> Interested in AI/ML👽🤖👾.<br> Know about basic SQL concepts.<br> Seeking to new technologies and adapt to it.<br>🤩 I 'm looking to Collaborate my projects that blend with AI<br>🎯 Goals: Creating Projects and Solving Errors in it.</p>
 
 <br>How to reach me --> Email:isacpman@gmail.com<br> <div class="p-5">LinkedIn: linkedin.com/in/isaac-george01</div>
 
