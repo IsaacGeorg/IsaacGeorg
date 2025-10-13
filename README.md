@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Isaac George and I'm a Fullstack Developer from Kerala, India</p>
+<p align="center">I am Isaac George. A Fullstack Developer from Kerala, India</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I am passionate in Python Fullstack Developement.<br> Interested in AI/ML👽🤖👾.<br> Know about basic SQL concepts.<br> Seeking to new technologies and adapt to it.<br>🤩 I 'm looking to Collaborate my projects that blend with AI<br>🎯 Goals: Creating Projects and Solving Errors in it.</p>
+<p align="left">📚 Passionate in Python Fullstack Developement.<br> Interested in AI/ML👽🤖👾.<br> Know about basic SQL concepts.<br> Seeking to new technologies and adapt to it.<br>🤩 Looking to Collaborate projects that blend with AI<br>🎯 Goals: Creating Projects and Solving Errors in it.</p>
 
 <br>How to reach me --> Email:isacpman@gmail.com<br> <div class="p-5">LinkedIn: linkedin.com/in/isaac-george01</div>
 
